@@ -7,4 +7,10 @@
  3.LOCAL_PEOPLE_DONG_201901~202106.csv - 
  http://data.seoul.go.kr/dataList/OA-14991/S/1/datasetView.do - [서울 열린데이터 광장] 행정동별 서울생활인구(내국인)
  
- 에서 다운받으 실 수 있습니다!
+ 에서 다운받으실 수 있습니다!
+
+
+ 4. finaldf.csv, dawn_data.csv, breakfast_data.csv, afternoon_data.csv, dinner_data.csv
+ 
+ https://github.com/CUAI-CAU/CUAI-FINANCE-TEAM2/blob/e7cfafecd36baa32da2e227568ca7624edcbd30d/%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D_%EC%A0%84%EC%B2%B4.ipynb
+ 코드의 실행결과로 시계열로 예측한 지역생활권별 생활인구 결과입니다.(예측하는데 많은 시간이 소요되어 csv 파일로 출력하여 적용하였음)
