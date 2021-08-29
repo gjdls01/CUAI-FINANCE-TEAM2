@@ -4,11 +4,21 @@
 #### 1. 데이터 전처리 및 시각화
 ##### [KB 국민카드] 지역별 음식점 세부 업종 집계내역 : 코로나 전수 성.연령별 요식업종 선호도 (by 구매건수) 시각화
 ![newplot (4)](https://user-images.githubusercontent.com/77157003/131252267-c7f70e68-61e4-430e-9ab2-db5f06c2ca59.png)
-"\n"< 코로나 전후 성별 연령별 구매력 >\n
+
+
+< 코로나 전후 성별 연령별 구매력 >
+
+
 ![newplot (5)](https://user-images.githubusercontent.com/77157003/131252286-84000fc8-b1cd-49d9-8988-449237a854e6.png)
-\n< 코로나 전후 전체 업종별 선호도 >\n
+
+
+< 코로나 전후 전체 업종별 선호도 >
+
+
 ![newplot (6)](https://user-images.githubusercontent.com/77157003/131252307-5ebbf340-94b0-4908-8825-61135d43723d.png)
-\n< 특정 업종의 코로나 전후 성별 연령별 선호도>
+
+
+< 특정 업종의 코로나 전후 성별 연령별 선호도>
 
 ##### [공공데이터포털] 소상공인시장진흥공단_상가(상권)정보_서울 : 지역생활권별 요식업종 수 시각화
 ![newplot (3)](https://user-images.githubusercontent.com/77157003/131252250-bbbffc6e-f29b-4df0-a773-7482d2d35a89.png)
