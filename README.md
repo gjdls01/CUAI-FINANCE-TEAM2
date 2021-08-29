@@ -53,7 +53,7 @@
 
 <지역생활권에 따른 성별연령별 생활인구수 예측 결과>
 
-![예측결과_전체](https://user-images.githubusercontent.com/80053493/131254145-b1f24d0c-2e18-447b-80a0-f2acce719cc2.png)
+![표](https://user-images.githubusercontent.com/80053493/131254336-87d203ee-de63-4fbf-abc7-8fa747daf68e.png)
 
 ![예측결과_그래프](https://user-images.githubusercontent.com/80053493/131254291-b0c8f88b-df48-4ae4-913c-e1aca0bfbc0d.png)
 
