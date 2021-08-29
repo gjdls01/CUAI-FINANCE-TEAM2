@@ -51,6 +51,12 @@
 
 시계열분석_전체.ipynb(밑의 설명 참고) 수행결과 생성된 csv 파일 (지역생활권별 생활인구 예측)을 이용
 
+<지역생활권에 따른 성별연령별 생활인구수 예측 결과>
+
+![예측결과_전체](https://user-images.githubusercontent.com/80053493/131254145-b1f24d0c-2e18-447b-80a0-f2acce719cc2.png)
+
+![예측결과_그래프](https://user-images.githubusercontent.com/80053493/131254291-b0c8f88b-df48-4ae4-913c-e1aca0bfbc0d.png)
+
 
 (지역생활권별 성별.연령별 생활인구)*(성별.연령별 요식업종 구매건수)/(지역생활권별 요식업종수) 연산을 수행
 
@@ -84,6 +90,3 @@
 < (지역생활권-요식업종)별 영업시간 추천 >
 
 
-시계열분석_전체.ipynb
-
-![예측결과_전체](https://user-images.githubusercontent.com/80053493/131254145-b1f24d0c-2e18-447b-80a0-f2acce719cc2.png)
