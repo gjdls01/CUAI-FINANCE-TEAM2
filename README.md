@@ -3,7 +3,7 @@
 ### 주제 : 서울시 소비자의 특성에 따른 요식업종 선호도 파악 및 생활지역권 내의 상권 분석을 통한 창업 가이드 제공
 #### 1. 데이터 전처리 및 시각화
 ##### [KB 국민카드] 지역별 음식점 세부 업종 집계내역 : 코로나 전수 성.연령별 요식업종 선호도 (by 구매건수) 시각화
-![newplot (4)](https://user-images.githubusercontent.com/77157003/131252267-c7f70e68-61e4-430e-9ab2-db5f06c2ca59.png, " width="40%")
+![newplot (4)](https://user-images.githubusercontent.com/77157003/131252267-c7f70e68-61e4-430e-9ab2-db5f06c2ca59.png)
 
 
 < 코로나 전후 성별 연령별 구매력 >
